@@ -1,0 +1,12 @@
+email: a@x.com
+subject: deda
+message: sdgaas
+email: a@x.com
+subject: deda
+message: 1234
+email: maritaayalam67@gmail.com
+subject: hola mijo!!!
+message: y te etrano mijo
+email: c@a.com
+subject: sdfgiop
+message: asdfghjk
